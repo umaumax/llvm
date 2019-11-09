@@ -5,12 +5,12 @@ import (
 	"io"
 	"strings"
 
-	"github.com/llir/llvm/internal/enc"
-	"github.com/llir/llvm/internal/natsort"
-	"github.com/llir/llvm/ir/enum"
-	"github.com/llir/llvm/ir/metadata"
-	"github.com/llir/llvm/ir/types"
-	"github.com/llir/llvm/ir/value"
+	"github.com/umaumax/llvm/internal/enc"
+	"github.com/umaumax/llvm/internal/natsort"
+	"github.com/umaumax/llvm/ir/enum"
+	"github.com/umaumax/llvm/ir/metadata"
+	"github.com/umaumax/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/value"
 	"github.com/pkg/errors"
 )
 

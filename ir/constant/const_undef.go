@@ -3,7 +3,7 @@ package constant
 import (
 	"fmt"
 
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/types"
 )
 
 // --- [ Undefined values ] ----------------------------------------------------

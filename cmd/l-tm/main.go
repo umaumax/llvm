@@ -9,7 +9,7 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/llir/llvm/asm"
+	"github.com/umaumax/llvm/asm"
 )
 
 func main() {

@@ -4,10 +4,10 @@ import (
 	"fmt"
 
 	"github.com/llir/ll/ast"
-	asmenum "github.com/llir/llvm/asm/enum"
-	"github.com/llir/llvm/internal/enc"
-	"github.com/llir/llvm/ir"
-	"github.com/llir/llvm/ir/metadata"
+	asmenum "github.com/umaumax/llvm/asm/enum"
+	"github.com/umaumax/llvm/internal/enc"
+	"github.com/umaumax/llvm/ir"
+	"github.com/umaumax/llvm/ir/metadata"
 	"github.com/pkg/errors"
 )
 

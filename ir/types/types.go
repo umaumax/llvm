@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/llir/llvm/internal/enc"
+	"github.com/umaumax/llvm/internal/enc"
 )
 
 // === [ Types ] ===============================================================

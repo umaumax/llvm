@@ -1,6 +1,6 @@
 package ir
 
-import "github.com/llir/llvm/ir/constant"
+import "github.com/umaumax/llvm/ir/constant"
 
 // NewAlias appends a new alias to the module based on the given alias name and
 // aliasee.

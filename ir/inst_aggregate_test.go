@@ -3,9 +3,9 @@ package ir
 import (
 	"testing"
 
-	"github.com/llir/llvm/ir/constant"
-	"github.com/llir/llvm/ir/types"
-	"github.com/llir/llvm/ir/value"
+	"github.com/umaumax/llvm/ir/constant"
+	"github.com/umaumax/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/value"
 )
 
 func TestTypeCheckInstExtractValue(t *testing.T) {

@@ -1,6 +1,6 @@
 package ir
 
-import "github.com/llir/llvm/ir/types"
+import "github.com/umaumax/llvm/ir/types"
 
 // --- [ Type definitions ] ----------------------------------------------------
 

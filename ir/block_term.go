@@ -1,8 +1,8 @@
 package ir
 
 import (
-	"github.com/llir/llvm/ir/constant"
-	"github.com/llir/llvm/ir/value"
+	"github.com/umaumax/llvm/ir/constant"
+	"github.com/umaumax/llvm/ir/value"
 )
 
 // --- [ Terminators ] ---------------------------------------------------------

@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/types"
 	"github.com/pkg/errors"
 )
 

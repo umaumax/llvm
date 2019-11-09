@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/llir/ll/ast"
-	asmenum "github.com/llir/llvm/asm/enum"
-	"github.com/llir/llvm/ir/constant"
-	"github.com/llir/llvm/ir/types"
+	asmenum "github.com/umaumax/llvm/asm/enum"
+	"github.com/umaumax/llvm/ir/constant"
+	"github.com/umaumax/llvm/ir/types"
 	"github.com/pkg/errors"
 )
 

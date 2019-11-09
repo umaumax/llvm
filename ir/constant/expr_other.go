@@ -3,8 +3,8 @@ package constant
 import (
 	"fmt"
 
-	"github.com/llir/llvm/ir/enum"
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/enum"
+	"github.com/umaumax/llvm/ir/types"
 )
 
 // --- [ Other expressions ] ---------------------------------------------------

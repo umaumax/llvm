@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/llir/llvm/asm"
-	"github.com/llir/llvm/ir"
+	"github.com/umaumax/llvm/asm"
+	"github.com/umaumax/llvm/ir"
 )
 
 func Example_callgraph() {

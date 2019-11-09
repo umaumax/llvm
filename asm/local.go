@@ -21,9 +21,9 @@ package asm
 
 import (
 	"github.com/llir/ll/ast"
-	"github.com/llir/llvm/ir"
-	"github.com/llir/llvm/ir/types"
-	"github.com/llir/llvm/ir/value"
+	"github.com/umaumax/llvm/ir"
+	"github.com/umaumax/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/value"
 	"github.com/pkg/errors"
 )
 

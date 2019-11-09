@@ -88,12 +88,12 @@ import (
 	"time"
 
 	"github.com/llir/ll/ast"
-	"github.com/llir/llvm/internal/enc"
-	"github.com/llir/llvm/internal/natsort"
-	"github.com/llir/llvm/ir"
-	"github.com/llir/llvm/ir/constant"
-	"github.com/llir/llvm/ir/metadata"
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/internal/enc"
+	"github.com/umaumax/llvm/internal/natsort"
+	"github.com/umaumax/llvm/ir"
+	"github.com/umaumax/llvm/ir/constant"
+	"github.com/umaumax/llvm/ir/metadata"
+	"github.com/umaumax/llvm/ir/types"
 	"github.com/pkg/errors"
 )
 

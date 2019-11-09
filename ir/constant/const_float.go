@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/types"
 	"github.com/mewmew/float"
 	"github.com/mewmew/float/binary16"
 	"github.com/mewmew/float/float80x86"

@@ -3,8 +3,8 @@ package metadata
 import (
 	"strings"
 
-	"github.com/llir/llvm/internal/enc"
-	"github.com/llir/llvm/ir/enum"
+	"github.com/umaumax/llvm/internal/enc"
+	"github.com/umaumax/llvm/ir/enum"
 )
 
 // diFlagsString returns the string representation of the given debug

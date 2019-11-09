@@ -2,10 +2,10 @@ package asm
 
 import (
 	"github.com/llir/ll/ast"
-	"github.com/llir/llvm/ir"
-	"github.com/llir/llvm/ir/constant"
-	"github.com/llir/llvm/ir/metadata"
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/ir"
+	"github.com/umaumax/llvm/ir/constant"
+	"github.com/umaumax/llvm/ir/metadata"
+	"github.com/umaumax/llvm/ir/types"
 )
 
 // generator keeps track of top-level entities when translating from AST to IR

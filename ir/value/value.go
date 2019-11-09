@@ -4,7 +4,7 @@ package value
 import (
 	"fmt"
 
-	"github.com/llir/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/types"
 )
 
 // Value is an LLVM IR value, which may be used as an operand of instructions

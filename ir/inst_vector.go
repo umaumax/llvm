@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/llir/llvm/ir/types"
-	"github.com/llir/llvm/ir/value"
+	"github.com/umaumax/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/value"
 )
 
 // --- [ Vector instructions ] -------------------------------------------------

@@ -4,10 +4,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/llir/llvm/ir/constant"
-	"github.com/llir/llvm/ir/metadata"
-	"github.com/llir/llvm/ir/types"
-	"github.com/llir/llvm/ir/value"
+	"github.com/umaumax/llvm/ir/constant"
+	"github.com/umaumax/llvm/ir/metadata"
+	"github.com/umaumax/llvm/ir/types"
+	"github.com/umaumax/llvm/ir/value"
 )
 
 func TestModuleString(t *testing.T) {

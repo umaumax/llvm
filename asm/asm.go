@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/llir/ll/ast"
-	"github.com/llir/llvm/ir"
+	"github.com/umaumax/llvm/ir"
 	"github.com/pkg/errors"
 )
 

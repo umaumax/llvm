@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/llir/llvm/asm"
+	"github.com/umaumax/llvm/asm"
 	"github.com/mewkiz/pkg/diffutil"
 	"github.com/mewkiz/pkg/osutil"
 )

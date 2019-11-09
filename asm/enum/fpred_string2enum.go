@@ -5,7 +5,7 @@ package enum
 import (
 	"fmt"
 
-	"github.com/llir/llvm/ir/enum"
+	"github.com/umaumax/llvm/ir/enum"
 )
 
 func _() {

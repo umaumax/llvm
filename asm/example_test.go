@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/kr/pretty"
-	"github.com/llir/llvm/asm"
+	"github.com/umaumax/llvm/asm"
 )
 
 func Example() {

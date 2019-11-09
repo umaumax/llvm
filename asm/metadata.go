@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/llir/ll/ast"
-	"github.com/llir/llvm/internal/enc"
-	"github.com/llir/llvm/ir/metadata"
+	"github.com/umaumax/llvm/internal/enc"
+	"github.com/umaumax/llvm/ir/metadata"
 	"github.com/pkg/errors"
 )
 
