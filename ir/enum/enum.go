@@ -164,7 +164,7 @@ const (
 	DIFlagTypePassByReference DIFlag = 1 << 23
 	DIFlagEnumClass           DIFlag = 1 << 24
 	DIFlagThunk               DIFlag = 1 << 25
-	DIFlagNonTrivial          DIFlag = 1 << 26
+	DIFlagTrivial             DIFlag = 1 << 26
 	DIFlagBigEndian           DIFlag = 1 << 27
 	DIFlagLittleEndian        DIFlag = 1 << 28
 	DIFlagAllCallsDescribed   DIFlag = 1 << 29

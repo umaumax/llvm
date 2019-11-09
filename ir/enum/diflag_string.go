@@ -37,13 +37,13 @@ func _() {
 	_ = x[DIFlagTypePassByReference-8388608]
 	_ = x[DIFlagEnumClass-16777216]
 	_ = x[DIFlagThunk-33554432]
-	_ = x[DIFlagNonTrivial-67108864]
+	_ = x[DIFlagTrivial-67108864]
 	_ = x[DIFlagBigEndian-134217728]
 	_ = x[DIFlagLittleEndian-268435456]
 	_ = x[DIFlagAllCallsDescribed-536870912]
 }
 
-const _DIFlag_name = "DIFlagZeroDIFlagPrivateDIFlagProtectedDIFlagPublicDIFlagFwdDeclDIFlagAppleBlockDIFlagBlockByrefStructDIFlagVirtualDIFlagArtificialDIFlagExplicitDIFlagPrototypedDIFlagObjcClassCompleteDIFlagObjectPointerDIFlagVectorDIFlagStaticMemberDIFlagLValueReferenceDIFlagRValueReferenceDIFlagReservedDIFlagSingleInheritanceDIFlagMultipleInheritanceDIFlagVirtualInheritanceDIFlagIntroducedVirtualDIFlagBitFieldDIFlagNoReturnDIFlagArgumentNotModifiedDIFlagTypePassByValueDIFlagTypePassByReferenceDIFlagEnumClassDIFlagThunkDIFlagNonTrivialDIFlagBigEndianDIFlagLittleEndianDIFlagAllCallsDescribed"
+const _DIFlag_name = "DIFlagZeroDIFlagPrivateDIFlagProtectedDIFlagPublicDIFlagFwdDeclDIFlagAppleBlockDIFlagBlockByrefStructDIFlagVirtualDIFlagArtificialDIFlagExplicitDIFlagPrototypedDIFlagObjcClassCompleteDIFlagObjectPointerDIFlagVectorDIFlagStaticMemberDIFlagLValueReferenceDIFlagRValueReferenceDIFlagReservedDIFlagSingleInheritanceDIFlagMultipleInheritanceDIFlagVirtualInheritanceDIFlagIntroducedVirtualDIFlagBitFieldDIFlagNoReturnDIFlagArgumentNotModifiedDIFlagTypePassByValueDIFlagTypePassByReferenceDIFlagEnumClassDIFlagThunkDIFlagTrivialDIFlagBigEndianDIFlagLittleEndianDIFlagAllCallsDescribed"
 
 var _DIFlag_map = map[DIFlag]string{
 	0:         _DIFlag_name[0:10],
@@ -75,10 +75,10 @@ var _DIFlag_map = map[DIFlag]string{
 	8388608:   _DIFlag_name[457:482],
 	16777216:  _DIFlag_name[482:497],
 	33554432:  _DIFlag_name[497:508],
-	67108864:  _DIFlag_name[508:524],
-	134217728: _DIFlag_name[524:539],
-	268435456: _DIFlag_name[539:557],
-	536870912: _DIFlag_name[557:580],
+	67108864:  _DIFlag_name[508:521],
+	134217728: _DIFlag_name[521:536],
+	268435456: _DIFlag_name[536:554],
+	536870912: _DIFlag_name[554:577],
 }
 
 func (i DIFlag) String() string {
