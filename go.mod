@@ -1,4 +1,4 @@
-module github.com/llir/llvm
+module github.com/umaumax/llvm
 
 go 1.13
 
